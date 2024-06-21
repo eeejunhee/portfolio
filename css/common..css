@@ -1,0 +1,75 @@
+* {
+	margin: 0px;
+	padding : 0px;
+
+}
+body {
+	font-family: "pretendard";
+	font-size: 12px;
+	color: #444444;
+	background-color: #f2f0f0;
+}
+ul{
+	list-style-type: none;
+
+}
+a:link, a:visited, a:hover, a:active{
+	text-decoration: none;
+	color: #444444;
+} 
+.clear{
+	clear: both;
+}
+
+/*-------헤더 -------*/
+
+header{
+	height: 128px;
+}
+header #top{
+	width: 990px;
+	margin: 0auto;
+
+
+}
+header #logo{
+	float:left;
+	margin: 30px 0 0 0;
+ 
+}
+header #search{
+	float: left;
+	font-family: "sans-serif;";
+	font-size: 12px;
+	color: #96c11f;
+	margin : 40px 0 0 150px
+
+}
+
+header #search #search_title{
+	float: left;
+
+}
+
+header #search #search_form{
+
+}
+
+header #search #search_form imput{
+
+}
+
+header #search #search_button{
+
+}
+
+/*----------푸터 ---------------*/
+
+footer{
+	height:200px;
+	margin_top : 20px
+}
+
+
+
+

@@ -1,0 +1,22 @@
+body {
+	background-color: #efe7e3;
+}
+
+.frame { 
+	margin : 30px 150px;
+	display: flex;
+	flex-direction: column;
+ }
+
+ .navigator {
+ 	display: flex;
+ 	flex-direction: row;
+ 	justify-content: space-between;
+
+
+ }
+
+ li { 
+     display:inline;
+     align ; 
+      }
